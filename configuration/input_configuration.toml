@@ -7,12 +7,12 @@
 ##############################
 protected_namespaces = '()'
 debug_skims_and_paths = false
-model_year = '2023'
+model_year = '2050'
 base_year = '2023'
-landuse_inputs = 'land_use_2023'
-network_inputs = 'networks_2023'
+landuse_inputs = 'land_use_2050'
+network_inputs = 'networks_2050'
 db_name = 'soundcast_inputs_2023.db'
-soundcast_inputs_dir = 'U:/Projects/Clients/PierceCounty/GitHub/PierceCastScenarioInputs/inputs'
+soundcast_inputs_dir = 'C:/Files/PierceCast/PC_2050_TW_T/PierceCastScenarioInputs/inputs'
 abm_model = 'daysim'
 
 ##############################
