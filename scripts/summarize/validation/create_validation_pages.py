@@ -49,7 +49,7 @@ def main():
 
     # create validation notebook
     create_quarto_notebook(notebook_name = "validation-notebook",
-                           summary_list = config["summary_list"][:1],
+                           summary_list = config["summary_list"],
                            scripts_dir = "scripts/summarize/validation",
                            output_folder = config["p_output_dir"])
     
